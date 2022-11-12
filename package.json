@@ -1,0 +1,19 @@
+{
+  "name": "adventure-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emjohnson3/Adventure-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emjohnson3/Adventure-Game/issues"
+  },
+  "homepage": "https://github.com/emjohnson3/Adventure-Game#readme"
+}
